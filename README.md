@@ -73,13 +73,7 @@ The pipeline begins by processing resumes into a vector storage. Upon receiving 
 ## Installation and Setup
 
 To set up the project locally:
-```
-# Clone the project
-git clone https://github.com/Hungreeee/Resume-Screening-RAG-Pipeline.git
-
-# Install dependencies
-pip install requirements.txt
-```
+clone using git clone, install requirements.txt
 
 To run the Streamlit demo locally:
 ```
